@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Biomedical image analysis project
+data/
+*.zip
+code/lut_performance_test.py
+results/tma_rgb_converted.tif
