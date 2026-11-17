@@ -224,3 +224,6 @@ data/
 *.zip
 code/lut_performance_test.py
 results/tma_rgb_converted.tif
+
+# CA2 backup script
+CA2_Image_Analysis/code/experiments/synthetic_fourier_backup.py
